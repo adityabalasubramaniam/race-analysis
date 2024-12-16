@@ -92,8 +92,8 @@ To view or edit the dashboard, you will need:
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Screenshot](images/dashboard-overview.png)
-![Dashboard Screenshot](images/dashboard-overview2.png)
+![Dashboard Screenshot1](dashboard-overview.png)
+![Dashboard Screenshot2](dashboard-overview2.png)
 
 
 
