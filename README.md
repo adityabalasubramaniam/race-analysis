@@ -81,10 +81,10 @@ To view or edit the dashboard, you will need:
 
 ```
 .
-├── README.md       # Project documentation
-├── racing-dashboard.pbix # Power BI dashboard file
-├── images/         # Screenshots of the dashboard
-└── data/           # Data sources (if applicable)
+├── README.md         # Project documentation
+├── race_report.pbix  # Power BI dashboard file
+├── images/           # Screenshots of the dashboard
+└── data/             # Data sources (if applicable)
 ```
 
 ---
@@ -93,6 +93,7 @@ To view or edit the dashboard, you will need:
 
 ### Dashboard Overview
 ![Dashboard Screenshot](images/dashboard-overview.png)
+![Dashboard Screenshot](images/dashboard-overview2.png)
 
 
 
